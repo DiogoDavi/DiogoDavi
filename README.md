@@ -168,8 +168,20 @@
 <h2>🌐 Connect with me</h2>
 
 <br />
-<p> <a href="[https://www.linkedin.com/in/SEU_LINK_AQUI](https://www.linkedin.com/in/diogo-david-2b218575/)" target="_blank"> <img align="left" alt="Linkedin" width="42px" src="https://blakeoliver.com.au/wp-content/uploads/2023/06/vecteezy_linkedin-logo-png-linkedin-icon-transparent-png_18930585_835.png" /> </a> 
-<a href="https://www.instagram.com/SEU_USUARIO_AQUI" target="_blank"> <img align="left" alt="Instagram" width="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/CIS-A2K_Instagram_Icon_%28Black%29.svg/500px-CIS-A2K_Instagram_Icon_%28Black%29.svg.png" /> </a> </p> <br>
+
+<p>
+  <a href="https://www.linkedin.com/in/diogo-david-2b218575/" target="_blank">
+    <img align="left" alt="Linkedin" width="42px"
+      src="https://blakeoliver.com.au/wp-content/uploads/2023/06/vecteezy_linkedin-logo-png-linkedin-icon-transparent-png_18930585_835.png" />
+  </a>
+
+  <a href="https://www.instagram.com/SEU_USUARIO_AQUI" target="_blank">
+    <img align="left" alt="Instagram" width="42px"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/CIS-A2K_Instagram_Icon_%28Black%29.svg/500px-CIS-A2K_Instagram_Icon_%28Black%29.svg.png" />
+  </a>
+</p>
+
+<br>
 
 <hr/>
 
